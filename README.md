@@ -6,6 +6,8 @@ The purpose of this project is to provide knowledge on creating a login and sign
 Note: Please create a database and table so that this project will work. Database information is written in database.sql. Copy it and paste it your sql command in phpmyadmin page.
 
 
+
 phpmyadmin paste here the text inside database.sql
 [![brave-rht-IXx-NAk4.png](https://i.postimg.cc/2yDXvHjn/brave-rht-IXx-NAk4.png)](https://postimg.cc/34tBQFvw)
+<img src="image-url" alt="Alt Text" width="400">
 
