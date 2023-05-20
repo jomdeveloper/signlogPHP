@@ -13,6 +13,7 @@ if (isset($_POST['name'])
     // Lets assume that the validtion is false.
     $isValid = false;
 
+    // Form validtion of input data.
     if (empty($name)) {
         $err_name = 'Name is required.';
     } elseif (! preg_match('/^[a-zA-Z\s]+$/', $name)) {
