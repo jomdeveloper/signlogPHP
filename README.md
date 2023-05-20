@@ -8,4 +8,5 @@ Note: Please create a database and table so that this project will work. Databas
 
 phpmyadmin paste here the text inside database.sql
 ![Alt Text]([image-url](https://photos.app.goo.gl/umHSev5pPB9WhgQo7))
+<img src="image-url" alt="Alt Text" width="400">
 
