@@ -7,5 +7,5 @@ Note: Please create a database and table so that this project will work. Databas
 
 
 phpmyadmin paste here the text inside database.sql
-![Alt Text]([image-url]([https://photos.google.com/photo/AF1QipPNMt_XpxZX1PYdXcS3h4CP489GgJdUgc9xUL4J](https://photos.app.goo.gl/WLJX6Yi1WuUFD1WP6)))
+![Alt Text]([image-url](https://photos.app.goo.gl/umHSev5pPB9WhgQo7))
 
